@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Helpdesk SQL Portfolio Project
 
@@ -23,3 +24,7 @@ The project includes:
 ---
 
 ## Project Structure
+=======
+# Helpdesk-SQL-Portfolio
+SQL Server Helpdesk Database Project
+>>>>>>> cc98cc9c65e7e50b01a840a697d68e4a78d9d825
